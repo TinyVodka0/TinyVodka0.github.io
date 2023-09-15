@@ -1,0 +1,49 @@
+html {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    text-align: center;
+}
+
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+header h5 {
+    text-align: center;
+    font-size: 16px;
+}
+
+.dllink h5 a {
+    color: aquamarine;
+}
+
+.videos {
+    display: flex;
+    justify-content: center;
+}
+
+.main2 h1,
+.cover h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+.main h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    width: 100%;
+    text-align: right;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
